@@ -1,0 +1,20 @@
+[
+  {
+    "id": 459,
+    "nombre": "Sala 6",
+    "capacidad": 24,
+    "ocupada": true
+  },
+  {
+    "id": 732,
+    "nombre": "Sala 3",
+    "capacidad": 35,
+    "ocupada": true
+  },
+  {
+    "id": 473,
+    "nombre": "Sala 1",
+    "capacidad": 70,
+    "ocupada": false
+  }
+]

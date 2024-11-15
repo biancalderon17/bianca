@@ -1,0 +1,23 @@
+[
+  {
+    "Id": 235,
+    "Fecha": "(2024, 11, 7)",
+    "Hora": 22,
+    "Sala": 3,
+    "Estado": true
+  },
+  {
+    "Id": 672,
+    "Fecha": "(2025, 2, 1)",
+    "Hora": 18,
+    "Sala": 6,
+    "Estado": true
+  },
+  {
+    "Id": 986,
+    "Fecha": "(2024, 11, 22)",
+    "Hora": 19,
+    "Sala": 4,
+    "Estado": false
+  }
+]

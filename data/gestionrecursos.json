@@ -1,0 +1,17 @@
+[
+  {
+    "Id": 890,
+    "Tipo": "Mesas",
+    "Cantidad": 12
+  },
+  {
+    "Id": 153,
+    "Tipo": "Sillas",
+    "Cantidad": 60
+  },
+  {
+    "Id": 761,
+    "Tipo": "Platos",
+    "Cantidad": 60
+  }
+]
